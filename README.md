@@ -1,2 +1,2 @@
 # docker-ub-base
-Base docker image
+Base ubuntu docker image - latest ubuntu with updates applied
